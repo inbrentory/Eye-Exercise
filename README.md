@@ -1,3 +1,5 @@
-# Eyes
-## Exercise on eyes
-<img src= "oneeye.png" width='300'/>
+# Eyes Exercise
+under MIT license
+MITxPRO
+
+student are capable of making cursor interact with an object!
